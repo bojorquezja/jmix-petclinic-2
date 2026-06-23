@@ -14,6 +14,7 @@ Jmix Petclinic provides the following functionality:
 - Tracking Visit Treatments for Nurses
 - Creating Pets and Owners
 - Managing Nurses and Veterinarians of the Petclinic
+- Neva version
 
 ## Domain Model
 
